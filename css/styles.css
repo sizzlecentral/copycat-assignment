@@ -101,3 +101,24 @@ p {
 .product-wrapper {
   overflow: hidden;
 }
+
+.about {
+    background-color: #26547C;
+    color: white;
+}
+
+.team-fun, .team-values, .team-meow {
+    float: left;
+    width: 33.33333%;
+    text-transform: uppercase;
+    text-align: center;
+    color: #EF476F;
+}
+
+footer {
+    background-color: #06D6A0;
+    height: 50px;
+    line-height: 50px;
+    text-align: right;
+    padding: 0 20px;
+}
